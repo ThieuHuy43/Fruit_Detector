@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+torch
+transformers
+Pillow
+python-multipart
+pydantic
+torch 
+torchvision --index-url https://download.pytorch.org/whl/cu126
+ftfy
